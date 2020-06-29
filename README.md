@@ -1,2 +1,2 @@
-# sistemaescola
+# SistemaEscola
 sistema de gerenciamento escolar
